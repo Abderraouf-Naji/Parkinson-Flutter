@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pfa_parkinson
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Flutter-Parkinson
 >>>>>>> f3acc9594cae40a21404177db56ebd30ee389d8a
+=======
+# Parkinson-Flutter
+>>>>>>> ea3c821df7858734a341cdd9e7c181f436cee3e8
