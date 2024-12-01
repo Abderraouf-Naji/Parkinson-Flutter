@@ -1,0 +1,1 @@
+ G:\\Parkinson-master\\.dart_tool\\flutter_build\\ec18adccc0be9e1078a2904778da03f5\\native_assets.yaml: 

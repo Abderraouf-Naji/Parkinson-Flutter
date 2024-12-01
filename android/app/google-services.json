@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15692535959",
+    "project_id": "pfa-naji",
+    "storage_bucket": "pfa-naji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15692535959:android:f661b6872c3a3ce55771d2",
+        "android_client_info": {
+          "package_name": "com.example.pfa_parkinson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIqTAae1e-o9IrVazdDDYpN8lsTTSp0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

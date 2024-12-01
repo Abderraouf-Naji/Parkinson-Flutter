@@ -1,0 +1,6 @@
+echo "node_modules/
+pfa-naji-firebase-adminsdk-u5zd9-f73328ba1d.json
+*.log
+.env
+.idea/
+.vscode/" > .gitignore
